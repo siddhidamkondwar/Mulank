@@ -133,8 +133,4 @@ Through this project, I practiced:
 
 ---
 
-## Author
 
-Siddhi Damkondwar
-
-Final Year B.Tech IT Student
